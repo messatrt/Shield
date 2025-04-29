@@ -1,0 +1,5 @@
+/backend/node_modules
+/model
+/mainproject/node_modules
+/mainproject/.svelte-kit
+
