@@ -9,40 +9,40 @@
       <h2>CryptoTracker</h2>
       <p>Your trusted source for real-time cryptocurrency information and market analysis.</p>
       <div class="social-icons">
-        <a href="#" aria-label="Twitter"><i class="icon twitter"></i></a>
-        <a href="#" aria-label="Discord"><i class="icon discord"></i></a>
-        <a href="#" aria-label="Telegram"><i class="icon telegram"></i></a>
-        <a href="#" aria-label="Github"><i class="icon github"></i></a>
+        <a href="/" aria-label="Twitter"><i class="icon twitter"></i></a>
+        <a href="/" aria-label="Discord"><i class="icon discord"></i></a>
+        <a href="/" aria-label="Telegram"><i class="icon telegram"></i></a>
+        <a href="/" aria-label="Github"><i class="icon github"></i></a>
       </div>
     </div>
     
     <div class="footer-section">
       <h3>Resources</h3>
       <ul>
-        <li><a href="#">Market Analysis</a></li>
-        <li><a href="#">Trading Guides</a></li>
-        <li><a href="#">Developer API</a></li>
-        <li><a href="#">Learning Hub</a></li>
+        <li><a href="/">Market Analysis</a></li>
+        <li><a href="/">Trading Guides</a></li>
+        <li><a href="/">Developer API</a></li>
+        <li><a href="/">Learning Hub</a></li>
       </ul>
     </div>
     
     <div class="footer-section">
       <h3>Company</h3>
       <ul>
-        <li><a href="#">About Us</a></li>
-        <li><a href="#">Careers</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Press Kit</a></li>
+        <li><a href="/">About Us</a></li>
+        <li><a href="/">Careers</a></li>
+        <li><a href="/">Blog</a></li>
+        <li><a href="/">Press Kit</a></li>
       </ul>
     </div>
     
     <div class="footer-section">
       <h3>Support</h3>
       <ul>
-        <li><a href="#">Help Center</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li><a href="#">Bug Reports</a></li>
-        <li><a href="#">Feature Requests</a></li>
+        <li><a href="/">Help Center</a></li>
+        <li><a href="/">Contact Us</a></li>
+        <li><a href="/">Bug Reports</a></li>
+        <li><a href="/">Feature Requests</a></li>
       </ul>
     </div>
   </div>
@@ -51,9 +51,9 @@
     <div class="footer-container">
       <p>&copy; {currentYear} CryptoTracker. All rights reserved.</p>
       <div class="legal-links">
-        <a href="#">Privacy Policy</a>
-        <a href="#">Terms of Service</a>
-        <a href="#">Cookie Policy</a>
+        <a href="/">Privacy Policy</a>
+        <a href="/">Terms of Service</a>
+        <a href="/">Cookie Policy</a>
       </div>
     </div>
   </div>
